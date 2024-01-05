@@ -8,15 +8,15 @@ The mechanical design of the robot has been meticulously crafted using SolidWork
 
 Self-Balancing Capability: Equipped with advanced sensors and control algorithms, the robot can dynamically adjust its position on the pendulum to maintain stability, showcasing the principles of inverted pendulum control.
 
-##Open Source:
+## Open Source:
 This project is entirely open source, encouraging collaboration and community involvement. Feel free to explore, modify, and contribute to the development of the robot.
 
 ## Repository Structure
-/CAD: Contains the SolidWorks design files, allowing you to inspect, modify, and simulate the robot's mechanical components.
+CAD: Contains the SolidWorks design files, allowing you to inspect, modify, and simulate the robot's mechanical components.
 
-/Documentation: Find detailed documentation, including assembly instructions, parts list, and any additional information to help you build and understand the robot.
+Documentation: Find detailed documentation, including assembly instructions, parts list, and any additional information to help you build and understand the robot.
 
-/Images: A collection of images showcasing the robot's design, assembly, and action. Feel free to use these visuals for presentations or documentation.
+Images: A collection of images showcasing the robot's design, assembly, and action. Feel free to use these visuals for presentations or documentation.
 
 ## Getting Started
 To get started with this project, follow these steps:
